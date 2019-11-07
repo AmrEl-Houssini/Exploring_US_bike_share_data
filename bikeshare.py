@@ -229,7 +229,7 @@ def user_stats(df):
 
 
 def longest_trip(df):
-    """ display information about the longest trip ever happened """
+    """ display information about the longest trip used by a user """
 
     # finding the maximum trip duration and rounding it up
     max_duration_time = round((max(df["Trip Duration"]) / 3600), 1)
