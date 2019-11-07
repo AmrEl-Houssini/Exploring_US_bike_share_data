@@ -46,4 +46,10 @@ What is the counts of each user type?
 What is the counts of each gender (only available for NYC and Chicago)?
 What is the earliest, most recent, most common year of birth (only available for NYC and Chicago)?
 
+### What software do I need?
+To complete this project, i've used the following softwares:
+Python
+A text editor, like Sublime or Atom
+A terminal application
+
 
